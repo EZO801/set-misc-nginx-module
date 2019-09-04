@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fset-misc-nginx-module.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fset-misc-nginx-module?ref=badge_shield)
+
 <!---
 Don't edit this file manually! Instead you should generate it by using:
     wiki2markdown.pl doc/HttpSetMiscModule.wiki
@@ -1335,3 +1337,7 @@ See Also
 
 [Back to TOC](#table-of-contents)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fset-misc-nginx-module.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fset-misc-nginx-module?ref=badge_large)
